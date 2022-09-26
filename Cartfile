@@ -1,2 +1,2 @@
-github "envoy/Embassy" ~> 4.0
+github "joomcode/Embassy" "xcode-14"
 
