@@ -1,2 +1,1 @@
-github "envoy/Embassy" ~> 4.0
-
+github "joomcode/Embassy-origin" "feature/jm/alive-https-connections"
