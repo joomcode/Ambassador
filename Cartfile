@@ -1,1 +1,1 @@
-github "joomcode/Embassy" "feature/jm/alive-https-connections"
+github "joomcode/Embassy" "feature/jm/handle-closed-by-peer-state"
